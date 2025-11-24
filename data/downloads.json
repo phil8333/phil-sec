@@ -1,0 +1,20 @@
+[
+  {
+    "title": "PhilSec Toolkit v1.0",
+    "desc": "Bundle of curated security tools.",
+    "href": "/assets/downloads/philsec-toolkit-v1.0.zip",
+    "size": "2.3 MB"
+  },
+  {
+    "title": "WinGuard Hardener v1.2",
+    "desc": "Windows privacy & hardening script.",
+    "href": "/assets/downloads/win-hardener-v1.2.exe",
+    "size": "1.1 MB"
+  },
+  {
+    "title": "PhilSec Mobile APK v1.0",
+    "desc": "Android app (APK).",
+    "href": "/assets/downloads/mobile-apk-v1.0.apk",
+    "size": "4.7 MB"
+  }
+]
