@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Critical 0-Day in VPN Client",
+    "excerpt": "Researchers disclosed a critical vulnerability in a major VPN client.",
+    "category": "Vulnerabilities",
+    "time": "2026-02-15"
+  },
+  {
+    "id": 2,
+    "title": "14M Account Breach at SaaS Provider",
+    "excerpt": "Customer data exposed after misconfigured storage bucket.",
+    "category": "Breaches",
+    "time": "2026-02-14"
+  },
+  {
+    "id": 3,
+    "title": "New Ransomware Targets SMBs",
+    "excerpt": "Emerging ransomware family uses modular exfiltration.",
+    "category": "Malware",
+    "time": "2026-02-13"
+  }
+]
