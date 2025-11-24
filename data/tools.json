@@ -1,0 +1,23 @@
+[
+  {
+    "id": "netscan",
+    "name": "NetScan Pro",
+    "desc": "Advanced network scanner",
+    "category": "Network",
+    "latest": "v2.4"
+  },
+  {
+    "id": "stealth-osint",
+    "name": "Stealth OSINT",
+    "desc": "Passive OSINT collection framework",
+    "category": "OSINT",
+    "latest": "v1.6"
+  },
+  {
+    "id": "winguard",
+    "name": "WinGuard Hardener",
+    "desc": "Windows privacy hardening",
+    "category": "Hardening",
+    "latest": "v3.1"
+  }
+]
