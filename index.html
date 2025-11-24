@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home — PhilSec</title>
+<link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+<header class="ps-header">
+  <div class="ps-container header-row">
+    <a class="brand" href="/index.html">
+      <img class="brand-logo" src="/assets/img/philsec.png" alt="PhilSec logo">
+      <div class="brand-text"><span class="brand-title">PhilSec</span><span class="brand-sub">Security • Tools • News</span></div>
+    </a>
+    <button id="navToggle" class="nav-toggle" aria-label="Open menu">☰</button>
+    <nav class="ps-nav" role="navigation" aria-label="Main">
+      <a href="/index.html">Home</a>
+      <a href="/news.html">News</a>
+      <a href="/tools.html">Tools</a>
+      <a href="/downloads.html">Downloads</a>
+      <a href="/about.html">About</a>
+      <a href="/contact.html">Contact</a>
+    </nav>
+    <div class="header-actions"><button id="themeBtn" class="btn-ghost" aria-pressed="false">🌓</button></div>
+  </div>
+</header>
+
+<main class="ps-container">
+
+<section class="hero">
+  <div class="ps-container hero-grid">
+    <div>
+      <h1 class="hero-title">PhilSec — Secure. Modern. Efficient.</h1>
+      <p class="hero-lead">Curated tools, tutorials, and real-world cybersecurity updates.</p>
+      <div class="cta-row"><a class="btn btn-primary" href="/news.html">Explore Latest</a><a class="btn btn-outline" href="/downloads.html">Downloads</a></div>
+    </div>
+    <div><img class="hero-img" data-src="/assets/img/philsec.png" alt="PhilSec" /></div>
+  </div>
+</section>
+
+<section class="site-grid">
+  <section class="panel">
+    <h2>Latest Posts</h2>
+    <div id="newsGrid" class="posts-grid"></div>
+  </section>
+
+  <aside class="panel">
+    <h3>Quick Tools</h3>
+    <div id="toolsGrid" class="posts-grid"></div>
+  </aside>
+</section>
+
+</main>
+
+<footer class="ps-footer">
+  <div class="ps-container"><div class="footer-inner"><span>© 2026 PhilSec</span><span class="small">Security • Tools • News</span></div></div>
+</footer>
+
+<script src="/assets/js/main.js"></script>
+</body>
+</html>
